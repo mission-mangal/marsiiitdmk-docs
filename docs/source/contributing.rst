@@ -1,4 +1,4 @@
-Usage
+Contributing
 =====
 
 .. _installation:
