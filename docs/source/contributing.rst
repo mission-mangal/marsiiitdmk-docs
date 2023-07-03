@@ -1,5 +1,5 @@
-Usage
-=====
+Contributing
+============
 
 .. _installation:
 
